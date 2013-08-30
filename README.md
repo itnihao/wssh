@@ -58,7 +58,7 @@ You can write your own library in another language in just a few lines of code.
 
 #add by itnihao 2013-08-30
 -------------------------
-、、、
+```
 #修改index.html 增加term.js解决登陆后空白的问题
 #yum install git gcc python libevent-devel python-devel python-pip
 #pip install gevent gevent-websocket paramiko flask
@@ -68,4 +68,4 @@ You can write your own library in another language in just a few lines of code.
 #wsshd
 wsshd/0.1.0 running on 0.0.0.0:5000
 通过web页面访问
-、、、
+```
